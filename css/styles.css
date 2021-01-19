@@ -1,0 +1,18 @@
+
+/*************** IDS ***************/
+#title{
+  background-color: #ff4c68;
+}
+
+/*******************HTML ELEMENTS**********************/
+
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/***********************classes*************************/
+.container-fluid{
+  padding: 3% 15%;
+}
