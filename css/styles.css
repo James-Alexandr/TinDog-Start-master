@@ -4,6 +4,10 @@
   background-color: #ff4c68;
   color: #fff;
 }
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
 
 /*******************HTML ELEMENTS**********************/
 body{
@@ -61,8 +65,10 @@ p{
 }
 .features-button{
   color: #ef8172;
-font-size: 4.5rem;
-margin-top: 10%;
+/* font-size: 3.5rem; */
+margin-bottom: 1rem;
+
+
 }
 .features-button:hover{
   color: #ff4c68;
@@ -71,6 +77,6 @@ margin-top: 10%;
 /* container features */
 
 .container-features{
-text-align: center;
-margin-top: 5%;
+/* text-align: center;
+margin-top: 5%; */
 }
