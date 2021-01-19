@@ -2,10 +2,13 @@
 /*************** IDS ***************/
 #title{
   background-color: #ff4c68;
+  color: #fff;
 }
 
 /*******************HTML ELEMENTS**********************/
-
+body{
+  font-family: 'Montserrat' ;
+}
 h1{
   font-family: 'Montserrat-black', sans-serif;
   font-size: 3rem;
@@ -15,4 +18,15 @@ h1{
 /***********************classes*************************/
 .container-fluid{
   padding: 3% 15%;
+}
+.dog-image{
+  transform: rotate(20deg);
+  height: 75%;
+  margin: 50px auto 0 auto;
+}
+
+/* Navigation bar */
+
+.navbar-brand{
+  font-family: 'Ubuntu';
 }
