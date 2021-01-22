@@ -3,11 +3,10 @@
 #title{
   background-color: #ff4c68;
   color: #fff;
+
+
 }
-#features{
-  padding: 7% 15%;
-  text-align: center;
-}
+
 
 /*******************HTML ELEMENTS**********************/
 body{
@@ -35,13 +34,22 @@ p{
 
 /***********************classes*************************/
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
+}
+.features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
 }
 
 /* Title image */
 .title-image{
   transform: rotate(25deg);
-  width: 60%;
+  width: 50%;
+  position: absolute;
+  right: 30%;
 }
 
 /* Navigation bar */
