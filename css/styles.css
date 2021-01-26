@@ -57,9 +57,13 @@ p{
   background-color: #ff4c68;
   text-align: center;
   color: #fff;
-  font-size: 50px;
+
   padding: 5%;
+}
+.cta-heading{
   font-family: 'Montserrat-Black';
+ line-height: 1.5;
+  font-size: 3rem;
 }
 .footer{
   background-color: fff;
